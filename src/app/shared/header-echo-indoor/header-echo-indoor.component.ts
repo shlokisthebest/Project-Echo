@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header-echo-indoor.component.css']
 })
 export class HeaderEchoIndoorComponent implements OnInit {
-
+  
+  front=true;
   constructor() { }
 
   ngOnInit() {

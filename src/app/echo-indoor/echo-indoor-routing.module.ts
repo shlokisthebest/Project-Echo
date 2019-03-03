@@ -16,40 +16,48 @@ import { UserCartComponent } from './checkout/user-cart/user-cart.component';
 const routes: Routes = [
   {
     path: '', component: LandingComponent,
-    children: [{
-      path: '', component: BannerComponent, outlet: 'banner'
-    },
-    { path: '', component: HeaderEchoIndoorComponent, outlet: 'header' },
-    {
-      path: '', component: ProductDisplayComponent, outlet: 'ProductDisplay'
-    },
-    {
-      path: '', component: SolutionsComponent, outlet: 'Solutions'
-    }]
+    children: [
+      {
+        path: '', component: BannerComponent, outlet: 'banner'
+      },
+      { 
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header' 
+      },
+      {
+        path: '', component: ProductDisplayComponent, outlet: 'ProductDisplay'
+      },
+      {
+        path: '', component: SolutionsComponent, outlet: 'Solutions'
+      }
+    ]
   },
   {
-    path: 'prod/:P_id', component: ProductDisplayShowComponent,
-    children: [{
-      path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
-    },
-    {
-      path: '', component: ProductDiscriptionComponent, outlet: 'discription'
-    },
-    {
-      path: '', component: ProductShowMoreComponent, outlet: 'showmore'
-    }]
+    path: 'prod', component: ProductDisplayShowComponent,
+    children: [
+      {
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+      },
+      {
+        path: '', component: ProductDiscriptionComponent, outlet: 'discription'
+      },
+      {
+        path: '', component: ProductShowMoreComponent, outlet: 'showmore'
+      }
+    ]
   },
   {
     path: 'checkout', component: CheckoutComponent,
-    children: [{
-      path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
-    },
-    {
-      path: '', component: UserDetailsComponent, outlet: 'form'
-    },
-    {
-      path: '', component: UserCartComponent, outlet: 'cart'
-    }]
+    children: [
+      {
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+      },
+      {
+        path: '', component: UserDetailsComponent, outlet: 'form'
+      },
+      {
+        path: '', component: UserCartComponent, outlet: 'cart'
+      }
+    ]
   }
 ];
 
