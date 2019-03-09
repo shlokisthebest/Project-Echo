@@ -15,7 +15,8 @@ export class FilterProductsComponent implements OnInit {
 
   category:string;
   type:string;
-
+  data1:any;
+  data2:any;
 
   constructor(private productService:IndoorproductsService,private route:ActivatedRoute) {
     
@@ -31,57 +32,41 @@ export class FilterProductsComponent implements OnInit {
       console.log("category:"+this.category);
       console.log("type :"+this.type);
       // this.fireEvent(this.category,this.type);
-        
-        
+      this.productService.getProducts(this.category,this.type).subscribe(dataq =>{
+        this.filterd = dataq;
+        console.log(dataq);
+        this.filterd = this.fireEvent(this.filterd,this.category, this.type);
+        console.log(this.filterd);
+      })
     })
-    console.log(this.productService.getProducts(this.category,this.type));
-      this.filterd = this.productService.getProducts(this.category,this.type);
-      
-    // this.productService.getProducts(this.category,this.type).subscribe(p => this.filterd = p);
-
-    // this.category = this.route.snapshot.params.category;
-    // this.type1 = this.route.snapshot.params.type;
-   
   }
 
-
-  // fireEvent(category:string,type:string)
-  // {
-  //   // if (cat === null)
-  //   // {
-  //   //   console.log(this.filterd)
-  //   // }else if (ty === null)
-  //   // {
-  //   //   console.log("here only category")
-  //   //   this.filterd.filter(prod => prod.Type.toUpperCase().includes(cat.toUpperCase()))
-  //   // }else
-  //   // {
-  //   //   console.log("Here only type and Categorys")
-  //   //   this.filterd.filter(prod => 
-  //   //     prod.Type.includes(cat.toUpperCase()))
-      
-  //   // }        
-
-
-
-  //   if(this.category!=null && this.type!=null)
-  //     {
-  //       console.log("hiii");
-  //       this.temp = this.prods.filter(f => f.Type.toLowerCase() === this.category.toLowerCase());
-  //       console.log("1st TEMP :"+this.prods.filter(f => f.Type.toLowerCase() === this.category.toLowerCase()))
-  //       // this.temp[0].Products.filter(x =>   x.type.toLowerCase().includes(this.type.toLowerCase()));
-  //       // this.filterd = this.temp
-
-  //       // this.temp = this.prods.filter(f => f.Type.toLowerCase().includes(this.category.toLowerCase()));
-  //       // this.filterd = this.temp.filter(f => f.Products.filter(t => t.type.toLowerCase().includes(this.type.toLowerCase())))
-  //       // // window.location.reload();
-        
-  //     }
-  //     else if(this.category != null && this.type== null)
-  //     {
-  //         console.log("ffff");
-  //        this.filterd = this.prods.filter(f => f.Type.toLowerCase().includes(this.category.toLowerCase()));
-
-  //     }
-  // }
+  fireEvent(filtered,category,type)
+  {
+    // console.log(this.data1);
+      if(category === null)
+      {
+        console.log('hello');
+          // console.log(this.data1)
+          return filtered
+      }
+      else if(type === null)
+      {
+        console.log(category);
+        console.log(filtered);
+        filtered = filtered.filter(prod => prod.Type == category);
+        console.log(filtered);
+        return filtered;
+      }
+      else
+      {
+        console.log('peopl');
+        this.data2 = filtered.filter(prod => prod.Type === category);
+        console.log(this.data2[0].Products);
+        console.log(type);
+        this.data2 = this.data2[0].Products.filter(p => p.type === type);
+        console.log(this.data2);
+        return this.data2
+      }
+  }
 }
