@@ -32,7 +32,7 @@ const routes: Routes = [
     ]
   },
   {
-    path: 'prod', component: ProductDisplayShowComponent,
+    path: 'prod/:p_id', component: ProductDisplayShowComponent,
     children: [
       {
         path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
