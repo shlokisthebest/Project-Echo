@@ -14,14 +14,17 @@ import { CheckoutComponent } from './checkout/checkout.component';
 import { UserDetailsComponent } from './checkout/user-details/user-details.component';
 import { UserCartComponent } from './checkout/user-cart/user-cart.component';
 import { ProductDisplayShowComponent } from './product-display/product-display.component';
-
+import { FormsModule } from "@angular/forms";
+import { AllProductDisplayComponent } from './all-product-display/all-product-display.component';
+import { FilterProductsComponent } from './all-product-display/filter-products/filter-products.component';
 
 @NgModule({
   // tslint:disable-next-line:max-line-length
-  declarations: [LandingComponent, BannerComponent, ProductDisplayShowComponent, ProductDisplayComponent, SolutionsComponent, ProductDiscriptionComponent, ProductShowMoreComponent, CheckoutComponent, UserDetailsComponent, UserCartComponent],
+  declarations: [LandingComponent, BannerComponent, ProductDisplayShowComponent, ProductDisplayComponent, SolutionsComponent, ProductDiscriptionComponent, ProductShowMoreComponent, CheckoutComponent, UserDetailsComponent, UserCartComponent, AllProductDisplayComponent, FilterProductsComponent],
   imports: [
     CommonModule,
-    EchoIndoorRoutingModule
+    EchoIndoorRoutingModule,
+    FormsModule
   ]
 })
 export class EchoIndoorModule { }

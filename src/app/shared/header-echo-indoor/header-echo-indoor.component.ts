@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderEchoIndoorComponent implements OnInit {
   
-  front=true;
+  // front=true;
   constructor() { }
 
   ngOnInit() {

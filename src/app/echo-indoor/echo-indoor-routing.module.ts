@@ -12,6 +12,8 @@ import { ProductShowMoreComponent } from './product-display/product-show-more/pr
 import { CheckoutComponent } from './checkout/checkout.component';
 import { UserDetailsComponent } from './checkout/user-details/user-details.component';
 import { UserCartComponent } from './checkout/user-cart/user-cart.component';
+import { FilterProductsComponent } from './all-product-display/filter-products/filter-products.component';
+import { AllProductDisplayComponent } from './all-product-display/all-product-display.component';
 
 const routes: Routes = [
   {
@@ -57,6 +59,42 @@ const routes: Routes = [
       {
         path: '', component: UserCartComponent, outlet: 'cart'
       }
+    ]
+  },
+  {
+    path: 'products', component: AllProductDisplayComponent,
+    children: [
+      {
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+      },
+      {
+        path: '', component: FilterProductsComponent, outlet: 'filter'
+      },
+      
+    ]
+  },
+  {
+    path: 'products/:category', component: AllProductDisplayComponent,
+    children: [
+      {
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+      },
+      {
+        path: '', component: FilterProductsComponent, outlet: 'filter'
+      },
+      
+    ]
+  },
+  {
+    path: 'products/:category/:type', component: AllProductDisplayComponent,
+    children: [
+      {
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+      },
+      {
+        path: '', component: FilterProductsComponent, outlet: 'filter'
+      },
+      
     ]
   }
 ];

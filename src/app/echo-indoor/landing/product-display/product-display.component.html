@@ -3,41 +3,43 @@
       <div class="col-md-12">
           <h1 class="elegantshadow"> DVR Models </h1>
       </div>
+      <div class="container col-sm-4">
+        <div class="input-group mb-3">
+          <div class="input-group-prepend">
+            <div class="input-group-text">
+              <input type="checkbox" aria-label="Checkbox for following text input" (change)="checkValueCCTV($event)">
+            </div>
+          </div>
+          <p  class="form-control" aria-label="Text input with checkbox">CCTV</p>
+        </div>
+      </div>
   </div>
   <div class="row cctvProdPadding">
     
-          <!-- <div class="flip-card col-sm-6 col-xs-12 col-md-3">
-              <div class="flip-card">
-                <div class="flip-card-inner">
-                  <div class="flip-card-front">
-                    <img src="assets/images/CCTV1.png" alt="Avatar" style="width:300px;height:300px;">
-                  </div>
-                  <div class="flip-card-back">
-                    <h1>John Doe</h1> 
-                    <p>Architect & Engineer</p> 
-                    <p>We love that guy</p>
-                  </div>
-                </div>
-              </div>
-            </div> -->
+         
+    <ng-container *ngFor="let p of filterd">   
+      <ng-container *ngFor="let products of p.Products">      
 
-        
-     <div class="flip-card col-sm-6 col-xs-12 col-md-3">
-        <div class="flip-card">
-          <div class="flip-card-inner">
-            <div class="flip-card-front">
-              <img src="assets/images/CCTV1.png" alt="Avatar" style="width:300px;height:300px;">
-            </div>
-            <div class="flip-card-back">
-              <h1>John Doe</h1> 
-              <p>Architect & Engineer</p> 
-              <p>We love that guy</p>
+      <div class="flip-card col-sm-6 col-xs-12 col-md-3">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <img src="{{products.img[0]}}" alt="Avatar" style="width:300px;height:300px;">
+              </div>
+              <div class="flip-card-back">
+                <p>{{products.pname}}</p> 
+                <p>{{products.type}}</p> 
+                <p>We love that guy</p>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-
-      <div class="flip-card col-sm-6 col-xs-12 col-md-3">
+        </ng-container>
+      </ng-container>
+    <div *ngIf="filterd.length == 0">
+      <p>Sorry, NO PRODUCTS FOUND!!</p>
+    </div>
+      <!-- <div class="flip-card col-sm-6 col-xs-12 col-md-3">
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
@@ -149,9 +151,9 @@
                 </div>
               </div>
   
-      </div>
+      </div> -->
 
 
 
-</div>
+<!-- </div> -->
 
