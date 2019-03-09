@@ -1,0 +1,109 @@
+<ng-container *ngFor="let p of filterd">   
+    <ng-container *ngFor="let products of p.Products">      
+
+    <div class="flip-card col-sm-6 col-xs-12 col-md-3">
+        <div class="flip-card">
+          <div class="flip-card-inner">
+            <div class="flip-card-front">
+              <img src="{{products.img[0]}}" alt="Avatar" style="width:300px;height:300px;">
+            </div>
+            <div class="flip-card-back">
+              <p>{{products.pname}}</p> 
+              <p>{{products.type}}</p> 
+              <p>We love that guy</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      </ng-container>
+    </ng-container>
+  <!-- <div *ngIf="filterd.length == 0">
+    <p>Sorry, NO PRODUCTS FOUND!!</p>
+  </div> -->
+  <!-- <div class="container" style="margin-left: 15%;">
+    <div class="row">
+        <div class="col-md-3" style="border-style: ridge; font-size: 20px;padding: 2%;">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <b>FILTER</b>
+                </div>
+            </div>
+            <hr>
+            <div class="container">
+                <dl>
+                    <dt><a href="">All Products</a></dt>
+                    <dt><a href="">CCTV</a></dt>
+                    <dd><a href=""> - Analog HD</a></dd>
+                    <dd><a href=""> - IP</a></dd>
+                    <dd> <a href=""> - XVR</a></dd>
+                    <dd><a href=""> - Wireless Cameras</a></dd>
+                    <dd><a href=""> - Accessories</a></dd>
+                    <dt><a href=""> Headsets</a></dt>
+                    <dt><a href=""> Wireless Chargers</a></dt>
+                </dl>
+            </div>
+        </div>
+        <div class="col-md-9" style="font-size: 20px;">
+            <div class="col-md-4 product-padding">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./images/cp1.jpg" alt="Avatar" style="width: 100%">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <b> echo </b>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 product-padding">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./images/cp1.jpg" alt="Avatar" style="width: 100%">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <b> echo </b>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 product-padding">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./images/cp1.jpg" alt="Avatar" style="width: 100%">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <b> echo </b>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 product-padding">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./images/cp1.jpg" alt="Avatar" style="width: 100%">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <b> echo </b>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 product-padding">
+                <div class="flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front">
+                            <img src="./images/cp1.jpg" alt="Avatar" style="width: 100%">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <b> echo </b>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
