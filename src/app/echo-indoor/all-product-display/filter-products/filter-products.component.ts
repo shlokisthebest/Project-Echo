@@ -62,11 +62,15 @@ export class FilterProductsComponent implements OnInit {
       {
         console.log('peopl');
         this.data2 = filtered.filter(prod => prod.Type === category);
-        console.log(this.data2[0].Products);
-        console.log(type);
-        this.data2 = this.data2[0].Products.filter(p => p.type === type);
         console.log(this.data2);
-        return this.data2
+        console.log(type);
+        let data3= '';
+        data3 = this.data2[0].Products.filter(p => p.type === type);
+        console.log(data3);
+        
+        this.data2[0].Products = data3;
+        console.log(this.data2);
+        return this.data2;
       }
   }
 }
