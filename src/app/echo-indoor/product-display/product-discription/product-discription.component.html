@@ -1,16 +1,20 @@
 <div class="container">
   <div class="row">
-      <h1>ECH-01</h1>
-  </div>
+        <!-- <ng-container *ngFor="let p of filterd;let i = index">
+            <ng-container *ngFor="let products of p.Products"> 
+            </ng-container>
+        </ng-container> -->
+        <h1>{{filterd[0].Products[0].pid}}</h1>
+
+    </div>
   <div class="row product">
       <div class="col-md-5 ">
-          <img src="assets/images/cp1.jpg" class="img-fluid " alt="" width="100%">
+          <img [src]="filterd[0].Products[0].img[0]" class="img-fluid " alt="" width="100%">
       </div>
       <div class="col-md-7 productDescription">
-          <p>Oh acceptance apartments up sympathize astonished delightful. Waiting him new lasting towards.
-              Continuing melancholy especially so to. Me unpleasing impossible in attachment announcing so
-              astonished. What ask leaf may nor upon door. Tended remain my do stairs. Oh smiling amiable am so
-              visited cordial in offices hearted.</p>
+            <h1>{{filterd[0].Products[0].pname}}</h1>
+
+        <p>{{filterd[0].Products[0].discription}}</p>
       </div>
   </div>
   <div class="row product productSpecification">

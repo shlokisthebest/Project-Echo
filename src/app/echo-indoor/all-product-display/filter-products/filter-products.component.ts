@@ -9,10 +9,11 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./filter-products.component.css']
 })
 export class FilterProductsComponent implements OnInit {
-  public filterd:any;
+  public filterd = [];
   category:string;
   type:string;
   data2:any;
+  pname:string;
   constructor(private productService:IndoorproductsService,private route:ActivatedRoute) {
   }
 
@@ -23,11 +24,12 @@ export class FilterProductsComponent implements OnInit {
       this.type = params.get('type');
       console.log("category:"+this.category);
       console.log("type :"+this.type);
-      this.productService.getProducts(this.category,this.type).subscribe(dataq =>{
+      this.productService.getProducts().subscribe(dataq =>{
         this.filterd = dataq;
         console.log(dataq);
         this.filterd = this.fireEvent(this.filterd,this.category, this.type);
         console.log(this.filterd);
+        this.pname = this.filterd[0].Products.pname
       })
     })
   }

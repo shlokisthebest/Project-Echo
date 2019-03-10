@@ -9,9 +9,13 @@ import { HttpClient } from '@angular/common/http';
 export class IndoorproductsService {
   constructor(private http : HttpClient) { }
 
-  public getProducts(category,type):Observable<any>{
-    console.log("category :"+category+"type :"+type)
+  public getProducts():Observable<any>{
+    // console.log("category :"+category+"type :"+type)
     return this.http.get("assets/json/ProductFormatjson.json");
 
   }
+  // public getProduct(category,type,pid):Observable<any>{
+  //   this.http.get("assets/json/ProductFormatjson.json").subscribe()
+  //   return 
+  // }
 }

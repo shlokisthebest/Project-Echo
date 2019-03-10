@@ -34,20 +34,6 @@ const routes: Routes = [
     ]
   },
   {
-    path: 'prod/:p_id', component: ProductDisplayShowComponent,
-    children: [
-      {
-        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
-      },
-      {
-        path: '', component: ProductDiscriptionComponent, outlet: 'discription'
-      },
-      {
-        path: '', component: ProductShowMoreComponent, outlet: 'showmore'
-      }
-    ]
-  },
-  {
     path: 'checkout', component: CheckoutComponent,
     children: [
       {
@@ -58,6 +44,20 @@ const routes: Routes = [
       },
       {
         path: '', component: UserCartComponent, outlet: 'cart'
+      }
+    ]
+  },
+  {
+    path: 'products/:category/:type/:pid', component: ProductDisplayShowComponent,
+    children: [
+      {
+        path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+      },
+      {
+        path: '', component: ProductDiscriptionComponent, outlet: 'discription'
+      },
+      {
+        path: '', component: ProductShowMoreComponent, outlet: 'showmore'
       }
     ]
   },
