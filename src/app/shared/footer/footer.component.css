@@ -12,6 +12,16 @@ body {
 }
 
 
+footer p a{
+  text-decoration: none;
+  color: black;
+}
+footer p a:hover{
+  color: #46484a;
+}
+.alignment{
+  text-align: left;
+}
 /* footer {
   background-color: #696b6e;
   position: relative;
