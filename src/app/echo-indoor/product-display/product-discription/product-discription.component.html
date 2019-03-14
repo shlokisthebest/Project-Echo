@@ -63,35 +63,53 @@
               </table>
           </div>
           <div id="RequestInformation" class="w3-container tab" style="display:none">
-              <form action="/action_page.php">
-                  <div class="row">
-                      <div class="col-md-6">
-                          <label for="name"> Name:</label> <br>
-                          <input type="text" name="Name" required>
-                      </div>
-                      <div class="col-md-6">
-                          <label for="Email">Email:</label> <br>
-                          <input type="text" name="Email">
-                      </div>
-                  </div>
-                  <div class="row">
-                      <div class="col-md-6">
-                          <label for="Mno">Mobile No.</label><br>
-                          <input type="number" name="Mno" required>
-                      </div>
-                      <div class="col-md-6">
-                          <label for="company">Your Company</label> <br>
-                          <input type="text" name="company">
-                      </div>
-                  </div>
-                  <div class="row">
-                      <div class="col-md-12">
-                          <label for="message">Message:</label> <br>
-                          <textarea type="text" name="message" required rows="3"></textarea>
-                      </div>
-                  </div>
-                  <br><br>
-                  <input type="submit" value="Submit">
+            <form #form="ngForm" (ngSubmit)="submit(form)" >
+                <div class="row">
+                    <div class="col-md-6">
+                        <label for="name"> Name:</label> <br>
+                        <input type="text" ngModel #name="ngModel" name="name" required>
+                        <div class="alert alert-danger" *ngIf="name.invalid && name.touched" role="alert">
+                          Name is required
+                        </div>
+                        <!-- <input type="hidden" ngModel #productId="ngModel" name="productId" value="filterd[0].Products[0].pid"> -->
+                    </div>
+                    <div class="col-md-6">
+                        <label for="email">Email:</label> <br>
+                        <input type="email"  ngModel #email="ngModel" name="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+                        <div class="alert alert-danger" *ngIf="email.invalid && email.touched" role="alert">
+                          <div *ngIf="email.errors.required">Email is required</div> 
+                          <div *ngIf="email.errors.pattern">It should be valid email</div> 
+                        </div>                          
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label for="Mno">Mobile No.</label><br>
+                        <input type="text" ngModel #Mno="ngModel" name="Mno" required pattern="^(\+\d{1,3}[- ]?)\d{10}$">
+                        <div class="alert alert-danger" *ngIf="Mno.invalid && Mno.touched" role="alert">
+                          <div *ngIf="Mno.errors.required">Mobile Number is required</div> 
+                          <div *ngIf="Mno.errors.pattern">It should be valid Mobile Number with proper country code like (+91 )</div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="company">Your Company</label> <br>
+                        <input type="text" ngModel #company="ngModel" name="company" required>
+                        <div class="alert alert-danger" *ngIf="company.invalid && company.touched" role="alert">
+                          Company Name is required
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label for="message">Message:</label> <br>
+                        <textarea type="text" ngModel #message="ngModel" name="message" required rows="3"></textarea>
+                        <div class="alert alert-danger" *ngIf="message.invalid && message.touched" role="alert">
+                          Message is required
+                        </div>
+                    </div>
+                </div>
+                <br><br>
+                <input type="submit" [disabled]="form.invalid" value="Submit">
               </form>
           </div>
       </div>

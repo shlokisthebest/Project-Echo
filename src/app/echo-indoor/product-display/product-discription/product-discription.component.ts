@@ -2,6 +2,9 @@ import { Component, OnInit } from '@angular/core';
 import { ProductDisplayComponent } from '../../landing/product-display/product-display.component';
 import { IndoorproductsService } from 'src/app/service/indoorproducts.service';
 import { ActivatedRoute, Router, NavigationEnd } from '@angular/router';
+import { NgForm } from '@angular/forms';
+import * as emailjs from 'emailjs-com';
+
 
 @Component({
   selector: 'app-product-discription',
@@ -70,5 +73,19 @@ export class ProductDiscriptionComponent implements OnInit {
     this.data2[0].Products = data3;
     console.log(this.data2);
     return this.data2;
+  }
+  submit(form:NgForm)
+  {
+    let data = form.value; 
+    data.productId = this.productID
+    console.log(data);
+    emailjs.send("gmail","contact_form",data,"user_47piZuxXfb2pRndD4Oj1x").then((response) => {
+      confirm("Email Send Successfully.")
+      console.log('SUCCESS!', response.status, response.text);
+     }, (err) => {
+      console.log('FAILED...', err);
+     });
+    form.resetForm();
+    
   }
 }
