@@ -1,0 +1,39 @@
+[
+  {
+    "Type":"CCTV",
+    "Products":[
+      {
+        "pid":"",
+        "pname":"",
+        "img":[],
+        "discription":"",
+        "series":"",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":""
+      },
+      {
+        "pid":"",
+        "pname":"",
+        "img":[],
+        "discription":"",
+        "series":"",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":""
+      }
+    ]
+  },
+  {
+    "Type":"HEADSETS"
+  },
+  {
+    "Type":"CHARGERS"
+  }
+]

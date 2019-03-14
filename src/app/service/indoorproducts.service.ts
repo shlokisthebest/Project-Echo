@@ -7,15 +7,9 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class IndoorproductsService {
-  constructor(private http : HttpClient) { }
+  constructor(private http: HttpClient) { }
 
-  public getProducts():Observable<any>{
-    // console.log("category :"+category+"type :"+type)
-    return this.http.get("assets/json/ProductFormatjson.json");
-
+  public getProducts(): Observable<any> {
+    return this.http.get('../../assets/json/ProductFormatjson.json');
   }
-  // public getProduct(category,type,pid):Observable<any>{
-  //   this.http.get("assets/json/ProductFormatjson.json").subscribe()
-  //   return 
-  // }
 }
