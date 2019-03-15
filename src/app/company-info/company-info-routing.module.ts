@@ -8,6 +8,8 @@ import { ContactComponent } from './display/contact/contact.component';
 import { TeamComponent } from './display/team/team.component';
 import { HeaderEchoIndoorComponent } from '../shared/header-echo-indoor/header-echo-indoor.component';
 import { SharedModule } from '../shared/shared.module';
+import { EwasteComponent } from './display/ewaste/ewaste.component';
+import { CertificationComponent } from './display/certification/certification.component';
 
 const routes: Routes = [
   {
@@ -35,6 +37,24 @@ const routes: Routes = [
     },
     {
       path: '', component: TeamComponent, outlet: 'information'
+    }]
+  },
+  {
+    path: 'ewaste', component: DisplayComponent,
+    children: [{
+      path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+    },
+    {
+      path: '', component: EwasteComponent, outlet: 'information'
+    }]
+  },
+  {
+    path: 'certification', component: DisplayComponent,
+    children: [{
+      path: '', component: HeaderEchoIndoorComponent, outlet: 'header'
+    },
+    {
+      path: '', component: CertificationComponent, outlet: 'information'
     }]
   }
 ];
