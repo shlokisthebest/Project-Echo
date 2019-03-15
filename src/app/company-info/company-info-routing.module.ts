@@ -10,6 +10,7 @@ import { HeaderEchoIndoorComponent } from '../shared/header-echo-indoor/header-e
 import { SharedModule } from '../shared/shared.module';
 import { EwasteComponent } from './display/ewaste/ewaste.component';
 import { CertificationComponent } from './display/certification/certification.component';
+import { FooterComponent } from '../shared/footer/footer.component';
 
 const routes: Routes = [
   {
@@ -19,7 +20,11 @@ const routes: Routes = [
     },
     {
       path: '', component: AboutComponent, outlet: 'information'
-    }]
+    },
+    {
+      path: '', component: FooterComponent, outlet: 'footer'
+    }
+  ]
   },
   {
     path: 'contact', component: DisplayComponent,
@@ -28,7 +33,11 @@ const routes: Routes = [
     },
     {
       path: '', component: ContactComponent, outlet: 'information'
-    }]
+    },
+    {
+      path: '', component: FooterComponent, outlet: 'footer'
+    }
+  ]
   },
   {
     path: 'team', component: DisplayComponent,
@@ -37,7 +46,11 @@ const routes: Routes = [
     },
     {
       path: '', component: TeamComponent, outlet: 'information'
-    }]
+    },
+    {
+      path: '', component: FooterComponent, outlet: 'footer'
+    }
+  ]
   },
   {
     path: 'ewaste', component: DisplayComponent,
@@ -46,7 +59,11 @@ const routes: Routes = [
     },
     {
       path: '', component: EwasteComponent, outlet: 'information'
-    }]
+    },
+    {
+      path: '', component: FooterComponent, outlet: 'footer'
+    }
+  ]
   },
   {
     path: 'certification', component: DisplayComponent,
@@ -55,7 +72,11 @@ const routes: Routes = [
     },
     {
       path: '', component: CertificationComponent, outlet: 'information'
-    }]
+    },
+    {
+      path: '', component: FooterComponent, outlet: 'footer'
+    }
+  ]
   }
 ];
 

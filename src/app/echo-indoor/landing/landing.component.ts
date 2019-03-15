@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ViewEncapsulation } from '@angular/compiler/src/core';
 import { Router, NavigationEnd } from '@angular/router';
+import { NgxSpinnerService } from 'ngx-spinner';
 
 @Component({
   selector: 'app-landing',
@@ -9,9 +10,15 @@ import { Router, NavigationEnd } from '@angular/router';
 })
 export class LandingComponent implements OnInit {
   // front=true;
-  constructor(private router: Router) { }
+  constructor(private router: Router, private spinner: NgxSpinnerService) { }
 
   ngOnInit() {
+
+    this.spinner.show();
+    setTimeout(() => {
+        /** spinner ends after 5 seconds */
+        this.spinner.hide();
+    }, 500);
     this.router.events.subscribe((evt) => {
       if (!(evt instanceof NavigationEnd)) {
           return;

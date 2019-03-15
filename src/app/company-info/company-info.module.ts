@@ -9,13 +9,15 @@ import { TeamComponent } from './display/team/team.component';
 import {FormsModule} from '@angular/forms';
 import { EwasteComponent } from './display/ewaste/ewaste.component';
 import { CertificationComponent } from './display/certification/certification.component';
+import { NgxSpinnerModule } from 'ngx-spinner';
 
 @NgModule({
   declarations: [DisplayComponent, AboutComponent, ContactComponent, TeamComponent, EwasteComponent, CertificationComponent],
   imports: [
     CommonModule,
     CompanyInfoRoutingModule,
-    FormsModule
+    FormsModule,
+    NgxSpinnerModule
   ]
 })
 export class CompanyInfoModule { }

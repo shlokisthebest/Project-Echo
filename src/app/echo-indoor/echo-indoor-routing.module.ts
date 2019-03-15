@@ -14,6 +14,7 @@ import { UserDetailsComponent } from './checkout/user-details/user-details.compo
 import { UserCartComponent } from './checkout/user-cart/user-cart.component';
 import { FilterProductsComponent } from './all-product-display/filter-products/filter-products.component';
 import { AllProductDisplayComponent } from './all-product-display/all-product-display.component';
+import { FooterComponent } from '../shared/footer/footer.component';
 
 const routes: Routes = [
   {
@@ -30,6 +31,9 @@ const routes: Routes = [
       },
       {
         path: '', component: SolutionsComponent, outlet: 'Solutions'
+      },
+      {
+        path: '', component: FooterComponent, outlet: 'footer'
       }
     ]
   },
@@ -44,6 +48,9 @@ const routes: Routes = [
       },
       {
         path: '', component: UserCartComponent, outlet: 'cart'
+      },
+      {
+        path: '', component: FooterComponent, outlet: 'footer'
       }
     ]
   },
@@ -58,6 +65,9 @@ const routes: Routes = [
       },
       {
         path: '', component: ProductShowMoreComponent, outlet: 'showmore'
+      },
+      {
+        path: '', component: FooterComponent, outlet: 'footer'
       }
     ]
   },
@@ -70,7 +80,9 @@ const routes: Routes = [
       {
         path: '', component: FilterProductsComponent, outlet: 'filter'
       },
-      
+      {
+        path: '', component: FooterComponent, outlet: 'footer'
+      }
     ]
   },
   {
@@ -82,7 +94,9 @@ const routes: Routes = [
       {
         path: '', component: FilterProductsComponent, outlet: 'filter'
       },
-      
+      {
+        path: '', component: FooterComponent, outlet: 'footer'
+      }
     ]
   },
   {
@@ -94,7 +108,9 @@ const routes: Routes = [
       {
         path: '', component: FilterProductsComponent, outlet: 'filter'
       },
-      
+      {
+        path: '', component: FooterComponent, outlet: 'footer'
+      }
     ]
   }
 ];

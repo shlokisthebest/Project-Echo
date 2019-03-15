@@ -1,6 +1,16 @@
 <!-- <p>
   landing works!
 </p> -->
+<ngx-spinner
+bdOpacity = 0.9
+bdColor = "#333"
+size = "medium"
+color = "#fff"
+type = "square-jelly-box"
+fullScreen = "true"
+>
+<p style="color: white" > Loading... </p>
+</ngx-spinner>
 <div>
     <router-outlet name='header'></router-outlet>
 <router-outlet name='banner'>
@@ -9,3 +19,4 @@
 </div>
 <router-outlet name="ProductDisplay"></router-outlet>
 <router-outlet name="Solutions"></router-outlet>
+<router-outlet name="footer"></router-outlet>

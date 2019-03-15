@@ -17,6 +17,7 @@ import { ProductDisplayShowComponent } from './product-display/product-display.c
 import { FormsModule } from "@angular/forms";
 import { AllProductDisplayComponent } from './all-product-display/all-product-display.component';
 import { FilterProductsComponent } from './all-product-display/filter-products/filter-products.component';
+import { NgxSpinnerModule } from 'ngx-spinner';
 
 @NgModule({
   // tslint:disable-next-line:max-line-length
@@ -24,7 +25,8 @@ import { FilterProductsComponent } from './all-product-display/filter-products/f
   imports: [
     CommonModule,
     EchoIndoorRoutingModule,
-    FormsModule
+    FormsModule,
+    NgxSpinnerModule
   ]
 })
 export class EchoIndoorModule { }
