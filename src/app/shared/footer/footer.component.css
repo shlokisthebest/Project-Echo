@@ -1,6 +1,7 @@
 html, body {
   max-width: 100%;
   overflow-x: hidden;
+  
 }
 
 body {
@@ -8,26 +9,31 @@ body {
   font-size: 16px;
   background-color: #ffffff;
   color: #46484a;
-  background-color: black;
+  background-color: whitesmoke;
 }
 
 
 footer p a{
   text-decoration: none;
-  color: black;
+  color: whitesmoke;
+  font-size: 15px !important;
 }
 footer p a:hover{
   color: #46484a;
+  font-size: 15px !important;
 }
 .alignment{
   text-align: left;
 }
-/* footer {
-  background-color: #696b6e;
-  position: relative;
-  width: 100%;
-  bottom: 0;
-} */
+footer {
+  background-color: #ffffff !important;
+  background-image: url('/assets/images/WEBSITE FOOTER.png');
+  background-repeat: no-repeat;
+  line-height: 1rem;
+  /* position: relative; */
+  /* width: 100%; */
+  /* bottom: 0; */
+}
 
 footer {
   position: absolute;
