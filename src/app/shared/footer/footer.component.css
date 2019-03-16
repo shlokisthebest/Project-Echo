@@ -25,9 +25,14 @@ footer p a:hover{
 .alignment{
   text-align: left;
 }
+.footer{
+  background-image: url('/assets/images/WEBSITE FOOTER.png');
+  
+}
 footer {
   background-color: #ffffff !important;
-  background-image: url('/assets/images/WEBSITE FOOTER.png');
+  /* background-image: url('/assets/images/WEBSITE FOOTER.png'); */
+  background-color: rgb(102, 101, 101) !important;
   background-repeat: no-repeat;
   line-height: 1rem;
   /* position: relative; */
@@ -41,7 +46,7 @@ footer {
   /* bottom: 0; */
   left: 0;
   padding: 1rem;
-  background-color: #efefef;
+  /* background-color: #efefef; */
   text-align: center;
 }
 
