@@ -18,7 +18,7 @@ export class ContactComponent implements OnInit {
   {
     let data = form.value; 
     console.log(data);
-    emailjs.send("gmail","template_WRCFMOQE",data,"user_47piZuxXfb2pRndD4Oj1x").then((response) => {
+    emailjs.send("outlook","template_2mX29lID",data,"user_618thGwZfuuShPWVxlRXr").then((response) => {
       confirm("Email Send Successfully.")
       console.log('SUCCESS!', response.status, response.text);
      }, (err) => {

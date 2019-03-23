@@ -79,7 +79,7 @@ export class ProductDiscriptionComponent implements OnInit {
     let data = form.value; 
     data.productId = this.productID
     console.log(data);
-    emailjs.send("gmail","contact_form",data,"user_47piZuxXfb2pRndD4Oj1x").then((response) => {
+    emailjs.send("outlook","contact_form",data,"user_618thGwZfuuShPWVxlRXr").then((response) => {
       confirm("Email Send Successfully.")
       console.log('SUCCESS!', response.status, response.text);
      }, (err) => {
