@@ -3,9 +3,9 @@
     "Type":"CCTV",
     "Products":[
       {
-        "pid":"EDH-401",
+        "pid":"EDH-13641",
         "pname":"2.4 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH1.png"],
         "discription":"Indoor Security Camera - This AHD dome Camera is compatible with XVR analog DVRs. <br> A base lock is designed to protect the camera from being stolen. <br> 1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc. <br>Great Night Vision Performance - Built-in 4 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃ to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"lepus",
         "specification":[
@@ -17,9 +17,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-402",
+        "pid":"EDH-13643",
         "pname":"2.4 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH2.png"],
         "discription":"Indoor Security Camera - This AHD dome Camera is compatible with XVR analog DVRs. <br> 1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc. <br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃ to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"lepus",
         "specification":[
@@ -31,9 +31,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-403",
+        "pid":"EDH-13643",
         "pname":"2.4 MP FULL HD NIGHT VISION VANDAL DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH3.png"],
         "discription":"Indoor Security Camera - This AHD Vandal Dome Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>The Dome part is made of Transparent cover which hide the camera lens inside without viewing from outside. That is the best way to avoid the embarrassed that the camera is watching someone in public.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br> Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 30 pcs LEDs with IR Cut, auto switch Day/Night mode, IR range 95 feet. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"LEPUS",
         "specification":[
@@ -45,9 +45,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-404",
+        "pid":"EBH-13644",
         "pname":"2.4 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH4.png"],
         "discription":"Outdoor Security Camera - This AHD Bullet Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>The Bullet camera is made of metal with high grade plastic cover which is vandal proof and waterproof can withstand the toughest of outdoor conditions, 3-axis camera stand, cable through bracket.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br> IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"LEPUS",
         "specification":[
@@ -59,9 +59,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-405",
+        "pid":"EBH-13645",
         "pname":"2.4 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH5.png"],
         "discription":"Outdoor Security Camera - This AHD Bullet Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>The Bullet camera is made of metal with shade due to which no cover is required. It is vandal proof and waterproof can withstand the toughest of outdoor conditions.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc. <br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 4 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"LEPUS",
         "specification":[
@@ -73,9 +73,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-406",
+        "pid":"EFH-13646",
         "pname":"2.4 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH6.png"],
         "discription":"Indoor Security Camera - This AHD 360 Degree Panoramic Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc. <br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"LEPUS",
         "specification":[
@@ -87,9 +87,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-407",
+        "pid":"EFH-13647",
         "pname":"2.4 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "img":["assets/images/EDH7.png"],
         "discription":"Indoor Security Camera - This AHD 360 Degree Panoramic Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc. <br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"LEPUS",
         "specification":[
@@ -101,9 +101,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-4001",
-        "pname":"2.4 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDN-23641",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION DOME CAMERA",
+        "img":["assets/images/EDH11.png"],
         "discription":"Indoor Security Camera - This IP dome Camera is compatible with NVRs/XVRs.<br>A base lock is designed to protect the camera from being stolen.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost .<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -115,9 +115,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-4002",
-        "pname":"2.4 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDN-23642",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION DOME CAMERA",
+        "img":["assets/images/EDH22.png"],
         "discription":"Indoor Security Camera - This IP dome Camera is compatible with NVRs/XVRs.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost,<br>Great Night Vision Performance - Built-in 2 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technology which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -129,9 +129,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-4003",
-        "pname":"2.4 MP FULL HD NIGHT VISION VANDAL DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDN-23643",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION VANDAL DOME CAMERA",
+        "img":["assets/images/EDH3.png"],
         "discription":"Indoor Security Camera - This IP Vandal Dome Camera is compatible with NVRs/XVRs.<br>The Dome part is made of Transparent cover which hide the camera lens inside without viewing from outside. That is the best way to avoid the embarrassed that the camera is watching someone in public.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 30 pcs LEDs with IR Cut, auto switch Day/Night mode, IR range 95 feet. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -143,9 +143,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-4004",
-        "pname":"2.4 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EBN-23644",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION BULLET CAMERA",
+        "img":["assets/images/EDH44.png"],
         "discription":"Outdoor Security Camera - This IP Bullet Camera is compatible with NVRs/XVRs.<br>The Bullet camera is made of metal with high grade plastic cover which is vandal proof and waterproof can withstand the toughest of outdoor conditions, 3-axis camera stand, cable through bracket.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -157,9 +157,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-4005",
-        "pname":"2.4 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EBN-23645",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION BULLET CAMERA",
+        "img":["assets/images/EDH55.png"],
         "discription":"Outdoor Security Camera - This IP Bullet Camera is compatible with NVRs/XVRs.<br>The Bullet camera is made of metal with shade due to which no cover is required. It is vandal proof and waterproof can withstand the toughest of outdoor conditions.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 4 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -171,9 +171,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-4006",
-        "pname":"2.4 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EFN-23646",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION PANORAMIC 360°  CAMERA",
+        "img":["assets/images/EDH66.png"],
         "discription":"Indoor Security Camera - This IP 360 Degree Panoramic Camera is compatible with NVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -185,9 +185,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-4007",
-        "pname":"2.4 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EFN-23644",
+        "pname":"2.4 MP FULL HD NETWORK NIGHT VISION PANORAMIC 360°  CAMERA",
+        "img":["assets/images/EDH77.png"],
         "discription":"Indoor Security Camera - This IP 360 Degree Panoramic Camera is compatible with NVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"CYGNUS",
         "specification":[
@@ -199,9 +199,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-701",
-        "pname":"5 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDH-13671",
+        "pname":"5 MP 4K READY NIGHT VISION DOME CAMERA",
+        "img":["assets/images/EDH1.png"],
         "discription":"Indoor Security Camera - This AHD dome Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>A base lock is designed to protect the camera from being stolen.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -213,9 +213,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-702",
-        "pname":"5 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDH-13672",
+        "pname":"5 MP 4K READY NIGHT VISION DOME CAMERA",
+        "img":["assets/images/EDH2.png"],
         "discription":"Indoor Security Camera - This AHD dome Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 2 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technology which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -227,9 +227,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-703",
-        "pname":"5 MP FULL HD NIGHT VISION VANDAL DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDH-13673",
+        "pname":"5 MP 4K READY NIGHT VISION VANDAL DOME CAMERA",
+        "img":["assets/images/EDH3.png"],
         "discription":"Indoor Security Camera - This AHD Vandal Dome Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>The Dome part is made of Transparent cover which hide the camera lens inside without viewing from outside. That is the best way to avoid the embarrassed that the camera is watching someone in public.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 30 pcs LEDs with IR Cut, auto switch Day/Night mode, IR range 95 feet. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -241,9 +241,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-704",
-        "pname":"5 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EBH-13674",
+        "pname":"5 MP 4K READY NIGHT VISION BULLET CAMERA",
+        "img":["assets/images/EDH4.png"],
         "discription":"Outdoor Security Camera - This AHD Bullet Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>The Bullet camera is made of metal with high grade plastic cover which is vandal proof and waterproof can withstand the toughest of outdoor conditions, 3-axis camera stand, cable through bracket.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -255,9 +255,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-705",
-        "pname":"5 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EBH-13675",
+        "pname":"5 MP 4K READY NIGHT VISION BULLET CAMERA",
+        "img":["assets/images/EDH555.png"],
         "discription":"Outdoor Security Camera - This AHD Bullet Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>The Bullet camera is made of metal with shade due to which no cover is required. It is vandal proof and waterproof can withstand the toughest of outdoor conditions.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 4 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -269,9 +269,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-706",
-        "pname":"5 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EFH-13676",
+        "pname":"5 MP 4K READY NIGHT VISION PANORAMIC 360°  CAMERA",
+        "img":["assets/images/EDH6.png"],
         "discription":"Indoor Security Camera - This AHD 360 Degree Panoramic Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -283,9 +283,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-707",
-        "pname":"5 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EFH-13677",
+        "pname":"5 MP 4K READY NIGHT VISION PANORAMIC 360°  CAMERA",
+        "img":["assets/images/EDH7.png"],
         "discription":"Indoor Security Camera - This AHD 360 Degree Panoramic Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc.<br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"SERPENS",
         "specification":[
@@ -297,9 +297,9 @@
         "type":"AHD"
       },
       {
-        "pid":"EDH-701",
-        "pname":"5 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDN-23671",
+        "pname":"5 MP 4K READY NETWORK NIGHT VISION DOME CAMERA",
+        "img":["assets/images/EDH11.png"],
         "discription":"Indoor Security Camera - This IP dome Camera is compatible with NVRs/XVRs.<br>A base lock is designed to protect the camera from being stolen.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -311,9 +311,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-702",
-        "pname":"5 MP FULL HD NIGHT VISION DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDN-23672",
+        "pname":"5 MP 4K READY NETWORK NIGHT VISION DOME CAMERA",
+        "img":["assets/images/EDH22.png"],
         "discription":"Indoor Security Camera - This IP dome Camera is compatible with NVRs/XVRs.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 2 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technology which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -325,9 +325,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-703",
-        "pname":"5 MP FULL HD NIGHT VISION VANDAL DOME CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EDN-23673",
+        "pname":"5 MP 4K READY NETWORK VISION VANDAL DOME CAMERA",
+        "img":["assets/images/EDH3.png"],
         "discription":"Indoor Security Camera - This IP Vandal Dome Camera is compatible with NVRs/XVRs.<br>The Dome part is made of Transparent cover which hide the camera lens inside without viewing from outside. That is the best way to avoid the embarrassed that the camera is watching someone in public.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc. <br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 30 pcs LEDs with IR Cut, auto switch Day/Night mode, IR range 95 feet. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -339,9 +339,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-704",
-        "pname":"5 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EBN-23674",
+        "pname":"5 MP 4K READY NETWORK NIGHT VISION BULLET CAMERA",
+        "img":["assets/images/EDH44.png"],
         "discription":"Outdoor Security Camera - This IP Bullet Camera is compatible with NVRs/XVRs.<br>The Bullet camera is made of metal with high grade plastic cover which is vandal proof and waterproof can withstand the toughest of outdoor conditions, 3-axis camera stand, cable through bracket.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 6 pcs Matrix EXIR Leds with IR Cut, auto switch Day/Night mode, IR range 60 feet. It uses the latest black film technology with Matrix EXIR LEDs which gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -353,9 +353,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-705",
-        "pname":"5 MP FULL HD NIGHT VISION BULLET CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EBN-23675",
+        "pname":"5 MP 4K READY NETWORK NIGHT VISION BULLET CAMERA",
+        "img":["assets/images/EDH55.png"],
         "discription":"Outdoor Security Camera - This IP Bullet Camera is compatible with NVRs/XVRs.<br>The Bullet camera is made of metal with shade due to which no cover is required. It is vandal proof and waterproof can withstand the toughest of outdoor conditions.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for both indoor and outdoor applications. Along with 3.6mm fixed lens, it can be used widely at the driveway, front door, hallways, garage, backyard and office. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 4 pcs LED Array with IR Cut, auto switch Day/Night mode, IR range 95 feet. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -367,9 +367,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-706",
-        "pname":"5 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EFN-23676",
+        "pname":"5 MP 4K READY NETWORK NIGHT VISION PANORAMIC 360°  CAMERA",
+        "img":["assets/images/EDH66.png"],
         "discription":"Indoor Security Camera - This IP 360 Degree Panoramic Camera is compatible with NVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc. <br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -381,9 +381,9 @@
         "type":"IP"
       },
       {
-        "pid":"EDH-707",
-        "pname":"5 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-        "img":["assets/images/CCTV1.png"],
+        "pid":"EFN-23677",
+        "pname":"5 MP 4K READY NETWORK NIGHT VISION PANORAMIC 360°  CAMERA",
+        "img":["assets/images/EDH77.png"],
         "discription":"Indoor Security Camera - This IP 360 Degree Panoramic Camera is compatible with NVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>5-Megapixel high definition: 2592(H) x 1920(V) Super High Resolution Video , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc.<br>H.265 Compression and Power over Ethernet (PoE), Plug and Play with POE NVR. PoE allows IP (internet protocol) devices to receive power and data over existing LAN (local area network) cabling. This eliminates the need to install a separate power cable, simplifies installation, and lowers cabling cost.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or NVRs, and then remote view on your Smart Phone through XVR/NVRs.<br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
         "series":"TAURUS",
         "specification":[
@@ -393,18 +393,395 @@
         ],
         "datasheetUrl":"",
         "type":"IP"
+      },
+      {
+        "pid":"EX 52244",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 2 MP - 2 HDD 16 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 16 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 2 HDD of 6 TB each making it good storage capacity of 12 TB. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store and Android Play Store  also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 2 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52288",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 2 MP - 2 HDD 8 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 8 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 2 HDD of 6 TB each making it good storage capacity of 12 TB. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 2 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 522816",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 2 MP - 2 HDD 4 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 4 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 2 HDD of 6 TB each making it good storage capacity of 12 TB. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 2 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 4 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52544",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 5 MP - 2 HDD 16 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 16 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 2 HDD of 6 TB each making it good storage capacity of 12 TB. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store and Android Play Store  also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 5 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52588",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 5 MP - 2 HDD 8 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 8 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 2 HDD of 6 TB each making it good storage capacity of 12 TB. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 5 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 525816",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 5 MP - 2 HDD 4 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 4 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 2 HDD of 6 TB each making it good storage capacity of 12 TB. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 5 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 4 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52244",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 2 MP - 1 HDD 16 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 16 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 1 HDD of 6 TB making it good storage capacity. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store and Android Play Store  also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 2 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52288",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 2 MP - 1 HDD 8 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 8 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 1 HDD of 6 TB making it good storage capacity. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 2 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 522816",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 2 MP - 1 HDD 4 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 4 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 1 HDD of 6 TB making it good storage capacity. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 2 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 4 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52544",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 5 MP - 1 HDD 16 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 16 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 1 HDD of 6 TB making it good storage capacity. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store and Android Play Store  also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 5 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 52588",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 5 MP - 1 HDD 8 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 8 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 1 HDD of 6 TB making it good storage capacity. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 5 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 8 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EX 525816",
+        "pname":"HYBRID DIGITAL NETWORK VIDEO RECORDER 5 MP - 1 HDD 4 CHANNEL",
+        "img":["assets/images/XVR1.png"],
+        "discription":"5-in-1 powerful XVR compatible with AHD/CVI/TVI/CVBS/IP camera for making good use of cameras, also support analog, HD analog and network connection for flexible surveillance choice. <br> Up to 4 Pcs of Cameras can be connected in one device at a time. <br> Real-time preview and record with HDD, live, playback, backup, and remote access whereas without HDD we can preview the Video but can't record <br> Supports 1 HDD of 6 TB making it good storage capacity. <br> Monitor remotely your home/office/warehouse any where, any time by installing APP Available on Apple App Store & Android Play Store and also Available on Computer <br> Have Motion detection & Email alarm facility. can mail and give alarm when there is motion on your set time, video loss, network or internet connectivity issue. <br> Comes with Remote Control        <br> For hassle-free working, IP and AHD cameras can be viewed in a single device which would also save the hardware cost.        <br> Supports upto 5 Mega-Pixel CCTV Cameras        <br> Suports a PTZ Camera        <br> Supports 4 Channel Microphone Audio Input         <br> Support TV, VGA or HDMI output         <br> Support Multiple Languages & Support IE (Internet Explore) Browser & USB 2.0 interfaces for mouse connection and U-Disk to backup video.        <br> Plug-in-Play for easy use; Connect DVR and Cameras with BNC video power cable, Power on the DVR and the cameras/Connect the PC& TV Monitor with DVR/Connect the Router with DVR by a Network cable, the Router must be WAN.",
+        "series":"ORION",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"XVR"
+      },
+      {
+        "pid":"EDH-BNC",
+        "pname":"BNC CONNECTORS FOR CCTV AHD CAMERAS",
+        "img":["assets/images/BNC.png"],
+        "discription":"User friendly <br> Easy to Connect <br> Ensures the matchless performance",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"EDH-DC",
+        "pname":"DC CONNECTORS FOR CCTV CAMERAS",
+        "img":["assets/images/DC.png"],
+        "discription":"Center positive 2.1mm DC plug to durable two wires <br> Molded male connectors <br> Outside diameter: 5.5mm Inside diameter: 2.1mm <br> easy to maneuver and install, and helps conserve space",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"EDH-MOUSE",
+        "pname":"MOUSE FOR CCTV XVR/DVR/NVR",
+        "img":["assets/images/MOUSE.png"],
+        "discription":"3 buttons improve productivity <br> Optical sensor works on most surfaces",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"EDH-RG59",
+        "pname":"CCTV WIRE CABLE RG-59 FOR ANALOG CAMERAS",
+        "img":["assets/images/RG59.png"],
+        "discription":"3 + 1 Cable 90 Running Meters Length Roll",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"EDH-CAT6",
+        "pname":"CCTV NETWORK CABLE CAT 6",
+        "img":["assets/images/cat6.png"],
+        "discription":"CAT 6 Cable 90 Running Meters Length Roll",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"DVR RACK ",
+        "pname":"CCTV XVR/DVR/NVR RACK",
+        "img":["assets/images/dvrrack.png"],
+        "discription":"Suitable for all type of DVR Box & Double DVR / Network Switch / Server Rack with Lock & Key. <br> For single DVR/XVR/NVR",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"DVR RACK MULTIPLE",
+        "pname":"CCTV XVR/DVR/NVR RACK",
+        "img":["assets/images/dvrrack1.png"],
+        "discription":"Suitable for all type of DVR Box & Double DVR / Network Switch / Server Rack with Lock & Key. <br> For multiple DVR/XVR/NVR",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"CCTV CAMERA BRACKET 001",
+        "pname":"BULLET CCTV CAMERA CEILING MOUNTED BRACKET",
+        "img":["assets/images/bracket1.png"],
+        "discription":"Wall/Ceiling mount stand bracket for cctv security camera camcorder",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"CCTV CAMERA BRACKET 002",
+        "pname":"DOME CCTV CAMERA WALL MOUNTED BRACKET ",
+        "img":["assets/images/bracket2.png"],
+        "discription":"Wall mount stand bracket for dome cctv security camera camcorder",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"CCTV CAMERA BRACKET 003",
+        "pname":"BULLET CCTV CAMERA CEILING MOUNTED BRACKET",
+        "img":["assets/images/bracket3.png"],
+        "discription":"Wall/Ceiling mount stand bracket for cctv security camera camcorder",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"CCTV CAMERA BRACKET 004",
+        "pname":"CCTV CAMERA BRAKET FOR POLES",
+        "img":["assets/images/bracket4.png"],
+        "discription":"Pole mount bracket for cctv security camera camcorder",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
+      },
+      {
+        "pid":"CCTV CAMERA BRACKET 005",
+        "pname":"DOME CCTV CAMERA WALL MOUNTED BRACKET ",
+        "img":["assets/images/bracket5.png"],
+        "discription":"Wall mount stand bracket for dome cctv security camera camcorder",
+        "series":"ACCESSORIES",
+        "specification":[
+          {
+            "spec":"details of spec"
+          }
+        ],
+        "datasheetUrl":"",
+        "type":"ACCESSORIES"
       }
-
     ]
   },
   {
     "Type":"HEADSETS",
     "Products":[
       {
-      "pid":"EDH-AAA",
-      "pname":"2.4 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-      "img":["assets/images/cp1.jpg"],
-      "discription":"Indoor Security Camera - This AHD 360 Degree Panoramic Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc. <br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
+      "pid":"HEADONS",
+      "pname":"HEADONS - WIRELESS HEADPHONES",
+      "img":["assets/images/headons.png"],
+      "discription":"Lose the wires, With no cable coming between you and your favourite tracks, This Bluetooth enabled headset is designed to deliver unexpectedly natural sound, Peak performance with superior bass and surround modes for pure entertainment. <br> This Bluetooth enabled gem provides features like multi-pairing, built-in-mic to provide clear calls anywhere. Listen to your favourite music wirelessly, from up to 300 feet away. Compatible for iOS & Android also displays the current battery indicator <br> This device comes with Latest Bluetooth Version 4.1 with Bluetooth Profile: A2DP1.2, AVRCP1.0, HFP1.5, HSP1.0 having wide Connectivity Range of 10 Meters",
+      "series":"LEPUS",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"AHD"
+      },
+      {
+      "pid":"SPORTONS",
+      "pname":"SPORTONS - WIRELESS SPORTS EARPHONES",
+      "img":["assets/images/sportons.png"],
+      "discription":"Ever dreamed of getting rid of those wires when playing sports or when busy working? Get motivated before, during and after your work or play with excellent and rich quality of wireless sound. Free your work & sports from cables, while being energised by premium stereo sound. Ultra-secure fit earbuds that allow you to concentrate on your work and sports without distraction.  <br> This Bluetooth enabled gem provides features like sweat proof body for sports and work outs, multi-pairing, built-in-mic to provide clear calls anywhere. Listen to your favourite music wirelessly, from up to 300 feet away with active noise cancellation. Compatible for iOS & Android also displays the current battery indicator <br> This device comes with Latest Bluetooth Version CSR8635 V4.0 + EDR with Bluetooth Profile: Headset, A2DP, AVRCP having wide Connectivity Range of 10 Meters",
+      "series":"LEPUS",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"AHD"
+      },
+      {
+      "pid":"IONS",
+      "pname":"IONS - PREMIUM WIRELESS EARPHONES",
+      "img":["assets/images/ions.png"],
+      "discription":"From the minute you start your day, ECHO ions will be there to keep you hazel free. Connect it with more than one device at a time and feel wire-free to take your calls and organise your workload With superior noise cancelation. Also enjoy amazing sound quality with Music, Movies and Much More. Compatible for iOS & Android also displays the current battery indicator. It gives you the FREEDOM TO STAY CONNECTED. <br> Keep going whatever be the conditions with the ECHO Carbons in-ear Wireless Bluetooth Earphones. An perfectly designed earphones that keeps them firmly in place so you can work hazel free and for longer, while the inline microphone lets you easily take calls on the go. You can also connect wirelessly to more than a device through our multi-pairing feature. Enjoy Upto 10 Meters Wireless Range. <br> This device comes with Latest Bluetooth Version V4.1 + EDR with Bluetooth Profile: HSP, HFP, A2DP, AVRCP having wide Connectivity Range of 10 Meters",
+      "series":"LEPUS",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"AHD"
+      },
+      {
+      "pid":"CARBONS",
+      "pname":"CARBONS - WIRELESS EARPHONES",
+      "img":["assets/images/carbons.png"],
+      "discription":"Ever dreamed of getting rid of those wires when playing sports or when busy working? Get motivated before, during and after your work or play with excellent and rich quality of wireless sound. Free your work & sports from cables, while being energised by premium stereo sound. Ultra-secure fit earbuds that allow you to concentrate on your work and sports without distraction.  <br> Keep going whatever be the conditions with the ECHO Carbons in-ear Wireless Bluetooth Earphones. An perfectly designed earphones that keeps them firmly in place so you can work hazel free and for longer, while the inline microphone lets you easily take calls on the go. You can also connect wirelessly to more than a device through our multi-pairing feature. Enjoy Upto 10 Meters Wireless Range. <br> This device comes with Latest Bluetooth Version V4.0 + EDR with Bluetooth Profile: JFP1.6, HSP1.2, AVRCP1.4, A2DP 1.2 RF having wide Connectivity Range of 10 Meters",
       "series":"LEPUS",
       "specification":[
         {
@@ -420,18 +797,88 @@
     "Type":"CHARGERS",
     "Products":[
       {
-      "pid":"EDH-AAA",
-      "pname":"2.4 MP FULL HD NIGHT VISION PANORAMIC 360°  CAMERA",
-      "img":["assets/images/CCTV1.png"],
-      "discription":"Indoor Security Camera - This AHD 360 Degree Panoramic Camera is compatible with HDx, AHD, HDCVI, CVBS AND HDTVI DVRs/XVRs.<br>360 Degree Panoramic Super Wide Angle View with fisheye lens, leaving No Blind Spot in the room.<br>1080P 2.4 Megapixel high definition: 1920(H) x 1080(V) , which ensures clear and sharp images for indoor applications. Along with 1.7mm broad lens. Never miss a single detail of your baby, visitors and staffs, etc. <br>Built in RS485 cable, DC power interface, BNC interface and DIP switcher make the camera plug and play feature.<br>Great Night Vision Performance - Built-in 3 pcs LED Array with HD IR-CUT Double Filter, Restoring Clear True Color.Auto switch Day/Night mode. It uses the latest black film technologywhich gives you better night vision experience, less flying insects, less power consumption and longer lifetime. No flare light in the dark. Hide your camera from being found and let you see more details at night.<br>If you want to remote view the camera on your smart phone, please connect this camera to your XVR or DVR, and then remote view on your Smart Phone through XVR/DVR. <br>IP66 Weatherproof - This weatherproof camera can be used for both indoor and outdoor applications, with a supported temperature range from -20℃to 55℃, 10% ~ 90% humidity. It keeps a durable and stable operation even in bad weather condition.",
-      "series":"LEPUS",
+      "pid":"UNWIRED-W",
+      "pname":"UNWIRED DESKTOP QI WIRELESS CHARGERS WHITE",
+      "img":["assets/images/unwiredwhite.png"],
+      "discription":"Say goodbye to tangled wires and lost charging cables. The ECHO Wireless Charging Pad utilises Qi Inductive Charging Technology that eliminates the need to attach a charging cable every time you want to charge your device. The dedicated Charging Pad is always at the ready, providing wireless power whenever you set your device on the pad. You can still use your device while charging, and your device is always accessible so you can answer a call without having to unplug. <br> With this stylish accessory, you can charge your compatible smartphones and other Qi-compatible devices without the need to plug your device in to a wall charger or USB port. Simply place your device directly onto the charging pad and your phone begins to charge  <br> The ECHO Wireless Charging Pad is easy to set up and use. First, connect the Charging Pad to your device’s charging cable, then place your phone on the pad. For optimal performance, your device should be placed in the proper location on the pad. A built-in LED indicator light will alert you if the device is not properly aligned and when a good charge alignment is acquired. it will also alert you when your device is fully charged. <br> If your device is not compatible with wireless charging then you will have to plug-in a receiver so as to enable wireless charging on your phone through Echo Unwired enjoy! Effortless wireless charging in your existing smartphone (iPhone, Android, Windows, Etc.)",
+      "series":"UNWIRED",
       "specification":[
         {
           "spec":"details of spec"
         }
       ],
       "datasheetUrl":"",
-      "type":"AHD"
+      "type":"WIRELESS CHARGERS"
+      },
+      {
+      "pid":"UNWIRED-B",
+      "pname":"UNWIRED DESKTOP QI WIRELESS CHARGERS BLACK",
+      "img":["assets/images/unwiredblack.png"],
+      "discription":"Say goodbye to tangled wires and lost charging cables. The ECHO Wireless Charging Pad utilises Qi Inductive Charging Technology that eliminates the need to attach a charging cable every time you want to charge your device. The dedicated Charging Pad is always at the ready, providing wireless power whenever you set your device on the pad. You can still use your device while charging, and your device is always accessible so you can answer a call without having to unplug. <br> With this stylish accessory, you can charge your compatible smartphones and other Qi-compatible devices without the need to plug your device in to a wall charger or USB port. Simply place your device directly onto the charging pad and your phone begins to charge  <br> The ECHO Wireless Charging Pad is easy to set up and use. First, connect the Charging Pad to your device’s charging cable, then place your phone on the pad. For optimal performance, your device should be placed in the proper location on the pad. A built-in LED indicator light will alert you if the device is not properly aligned and when a good charge alignment is acquired. it will also alert you when your device is fully charged. <br> If your device is not compatible with wireless charging then you will have to plug-in a receiver so as to enable wireless charging on your phone through Echo Unwired enjoy! Effortless wireless charging in your existing smartphone (iPhone, Android, Windows, Etc.)",
+      "series":"UNWIRED",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"WIRELESS CHARGERS"
+      },
+      {
+      "pid":"UNWIRED RECEIVER- lIGHTING PORT",
+      "pname":"UNWIRED RECEIVERS QI WIRELESS CHARGING FOR APPLE LIGHTING PORT",
+      "img":["assets/images/unwiredreceiver.png"],
+      "discription":"This Qi Receiver is the simplest was to enable your smartphone for wireless charging. You simply insert the receiver card at the back of your device or under the back cover of your phone plugging into devices charging port and then your device is ready for use for wireless charging!! Enjoy the ECHO wireless charger. <br> Super easy installation as you can just insert it into lightning charging port. Convenient to answer calls when charging your phone without any cable interference. Prolong the life of your lightning port without plugging or unplugging any cables. <br> Ultra slim and charging fast. Ultra slim 1.1 mm, compact and light. Weight without increasing additional weight to your phone. <br> The ECHO Wireless Charging Receiver comes with various charging pins for enabling all deviced with Apple Lighting Port - For All Apple Devices",
+      "series":"UNWIRED",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"WIRELESS CHARGERS"
+      },
+      {
+      "pid":"UNWIRED RECEIVER- MICRO USB TYPE B - UP",
+      "pname":"UNWIRED RECEIVERS QI WIRELESS CHARGING FOR MICRO USB TYPE B - UP",
+      "img":["assets/images/unwiredreceiver.png"],
+      "discription":"This Qi Receiver is the simplest was to enable your smartphone for wireless charging. You simply insert the receiver card at the back of your device or under the back cover of your phone plugging into devices charging port and then your device is ready for use for wireless charging!! Enjoy the ECHO wireless charger. <br> Super easy installation as you can just insert it into lightning charging port. Convenient to answer calls when charging your phone without any cable interference. Prolong the life of your lightning port without plugging or unplugging any cables. <br> Ultra slim and charging fast. Ultra slim 1.1 mm, compact and light. Weight without increasing additional weight to your phone. <br> The ECHO Wireless Charging Receiver comes with various charging pins for enabling all deviced with Micro USB Type B (UP)",
+      "series":"UNWIRED",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"WIRELESS CHARGERS"
+      },
+      {
+      "pid":"UNWIRED RECEIVER- MICRO USB TYPE B - DOWN",
+      "pname":"UNWIRED RECEIVERS QI WIRELESS CHARGING FOR MICRO USB TYPE B - DOWN",
+      "img":["assets/images/unwiredreceiver.png"],
+      "discription":"This Qi Receiver is the simplest was to enable your smartphone for wireless charging. You simply insert the receiver card at the back of your device or under the back cover of your phone plugging into devices charging port and then your device is ready for use for wireless charging!! Enjoy the ECHO wireless charger. <br> Super easy installation as you can just insert it into lightning charging port. Convenient to answer calls when charging your phone without any cable interference. Prolong the life of your lightning port without plugging or unplugging any cables. <br> Ultra slim and charging fast. Ultra slim 1.1 mm, compact and light. Weight without increasing additional weight to your phone. <br> The ECHO Wireless Charging Receiver comes with various charging pins for enabling all deviced with Micro USB Type B (DOWN)",
+      "series":"UNWIRED",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"WIRELESS CHARGERS"
+      },
+      {
+      "pid":"UNWIRED RECEIVER- MICRO USB TYPE C",
+      "pname":"UNWIRED RECEIVERS QI WIRELESS CHARGING FOR MICRO USB TYPE C",
+      "img":["assets/images/unwiredreceiver.png"],
+      "discription":"This Qi Receiver is the simplest was to enable your smartphone for wireless charging. You simply insert the receiver card at the back of your device or under the back cover of your phone plugging into devices charging port and then your device is ready for use for wireless charging!! Enjoy the ECHO wireless charger. <br> Super easy installation as you can just insert it into lightning charging port. Convenient to answer calls when charging your phone without any cable interference. Prolong the life of your lightning port without plugging or unplugging any cables. <br> Ultra slim and charging fast. Ultra slim 1.1 mm, compact and light. Weight without increasing additional weight to your phone. <br> The ECHO Wireless Charging Receiver comes with various charging pins for enabling all deviced with Micro USB Type C",
+      "series":"UNWIRED",
+      "specification":[
+        {
+          "spec":"details of spec"
+        }
+      ],
+      "datasheetUrl":"",
+      "type":"WIRELESS CHARGERS"
       }
     ]
   }
