@@ -13,7 +13,7 @@
       </div>
       <div class="col-md-7 productDescription">
             <h2>{{filterd[0].Products[0].pname}}</h2>
-        <div [innerHTML]="discription" style="font-size: 17px;">
+        <div [innerHTML]="discription" style="font-size: 15px;">
         <p>{{filterd[0].Products[0].discription}}</p>
     </div>
       </div>
@@ -21,12 +21,12 @@
   <div class="row product productSpecification">
       <div class="col-md-12">
           <div class="w3-bar ">
-              <button class="w3-bar-item w3-button tablink w3-black"
-                  onclick="openCity(event,'Specification')">Product Specification</button>
+              <!-- <button class="w3-bar-item w3-button tablink w3-black"
+                  onclick="openCity(event,'Specification')">Product Specification</button> -->
               <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'RequestInformation')">Request
                   Details</button>
           </div>
-          <div id="Specification" class="w3-container tab productSpecification">
+          <!-- <div id="Specification" class="w3-container tab productSpecification">
               <table style="width:100%; font-size: 22px;">
                   <tr>
                       <th>Image Sensor</th>
@@ -61,7 +61,7 @@
                       <td>Main Stream:1080P/720P(1 ~ 25/30fps), Extra Stream: D1/CIF(1 ~ 25/30fps)</td>
                   </tr>
               </table>
-          </div>
+          </div> -->
           <div id="RequestInformation" class="w3-container tab" style="display:none">
             <form #form="ngForm" (ngSubmit)="submit(form)" >
                 <div class="row">

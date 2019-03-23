@@ -8,3 +8,8 @@ article p{
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
 }
+article{
+  margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+}
